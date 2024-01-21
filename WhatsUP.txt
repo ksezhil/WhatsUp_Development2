@@ -9,3 +9,5 @@ Author: Ezhilarasu Subramaniam
 3. Last Seen Code
 
 4. Attachments (Image, Audio, Video) code
+
+5. Hiding the last Seen
